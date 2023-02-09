@@ -10,6 +10,6 @@ public void a()
 }
 	public void b()
 	{
-			System.out.println("b added");
+			System.out.println("b method added");
 	}
 }
