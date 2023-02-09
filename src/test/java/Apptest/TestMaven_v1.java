@@ -8,4 +8,8 @@ public void a()
 {
 		System.out.println("only class name changed");
 }
+	public void b()
+	{
+			System.out.println("b added");
+	}
 }
