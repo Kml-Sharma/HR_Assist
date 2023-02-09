@@ -6,6 +6,6 @@ public class TestMaven_v1 {
 	@Test
 public void a()
 {
-		System.out.println("test result passed");
+		System.out.println("only class name changed");
 }
 }
