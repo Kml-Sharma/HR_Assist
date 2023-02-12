@@ -10,6 +10,6 @@ public void a()
 }
 	public void b()
 	{
-			System.out.println("b gkj hghj id method added");
+			System.out.println("b gkj hghhlhj id method added");
 	}
 }
