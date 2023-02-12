@@ -10,6 +10,6 @@ public void a()
 }
 	public void b()
 	{
-			System.out.println("b no refs method added");
+			System.out.println("b no bug id method added");
 	}
 }
