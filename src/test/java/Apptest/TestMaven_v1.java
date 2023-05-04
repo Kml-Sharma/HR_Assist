@@ -6,7 +6,7 @@ public class TestMaven_v1 {
 	@Test
 public void a()
 {
-		System.out.println("only class name changed");
+		System.out.println("diff");
 }
 	public void b()
 	{
